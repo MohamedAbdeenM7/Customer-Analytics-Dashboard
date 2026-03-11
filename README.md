@@ -23,7 +23,7 @@ A web-based interactive application that helps businesses understand customer be
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MohamedAbdeenM7/Customer-Analytics-GPS.git
+git clone https://github.com/MohamedAbdeenM7/Customer-Analytics-Dashboard.git
 cd customer-analytics
 ```
 
@@ -71,5 +71,6 @@ customer-analytics/
 4. Commit your changes (git commit -m 'Add AmazingFeature')
 5. Push to the branch (git push origin feature/AmazingFeature)
 6. Open a Pull Request
+
 
 
