@@ -6,7 +6,7 @@
 
 ## An interactive dashboard for customer analysis and churn prediction using machine learning
 
----
+[Explore IT Your Self](https://customer-analytics-dashboard-2mhwe4d8q6fk7nzemseiar.streamlit.app/)
 
 ## ✨ About The Project
 
@@ -71,6 +71,3 @@ customer-analytics/
 4. Commit your changes (git commit -m 'Add AmazingFeature')
 5. Push to the branch (git push origin feature/AmazingFeature)
 6. Open a Pull Request
-
-
-
