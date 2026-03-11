@@ -4,8 +4,10 @@ import numpy as np
 import pickle
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
+import os 
 
 st.set_page_config(page_title="Customer Analytics App", layout="wide")
+
 model = pickle.load(open("model.pkl","rb"))
 st.title("Customer Analytics Dashboard")
 st.sidebar.title("Navigation")
