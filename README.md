@@ -54,14 +54,14 @@ streamlit run app.py
 
 ### 📁 Project Structure
 
-- customer-analytics/
-- │
-- ├── app.py                 # Main application file
-- ├── model.pkl              # Trained ML model
-- ├── churn_dataset.xlsx     # Churn prediction data
-- ├── Mall_Customers.csv     # Segmentation data
-- ├── requirements.txt       # Dependencies
-- └── README.md              # Project documentation
+customer-analytics/
+│
+├── app.py                 # Main application file
+├── model.pkl              # Trained ML model
+├── churn_dataset.xlsx     # Churn prediction data
+├── Mall_Customers.csv     # Segmentation data
+├── requirements.txt       # Dependencies
+└── README.md              # Project documentation
 
 ### 🤝 Contributing
 
@@ -71,3 +71,4 @@ streamlit run app.py
 4. Commit your changes (git commit -m 'Add AmazingFeature')
 5. Push to the branch (git push origin feature/AmazingFeature)
 6. Open a Pull Request
+
